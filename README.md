@@ -6,6 +6,28 @@ https://asu.zoom.us/rec/share/Tg9stkuWQCreXCriVe2GYIfFsaerq6gUKkEikQVzWHqE66t2n4
 
 Passcode: UA#!qY9j
 
+Setup
+
+Create .env file
+
+PORT=4000
+MONGO_URI=mongodb+srv://<yourusername>:<yourpassword>@mern.dphdo8h.mongodb.net/?retryWrites=true&w=majority&appName=MERN
+SECRET=secretcode
+APP_PASSWORD=<yourapppasswordfromgoogleaccount>
+
+Open terminal
+
+cd MERN
+
+cd backend
+
+npm run dev
+
+cd frontend
+
+npm start
+
+
 Overview
 
 • Serenity is a MERN stack-based chat application. It allows users to sign up, verify their email, and chat. It features a frontend built with React, a backend built with Node.js and Express, and MongoDB for data storage. The application uses JWT for authentication and includes various security measures.
