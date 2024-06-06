@@ -2,7 +2,7 @@ Hey, I'm Cole and this is my first MERN project. I made this project from scratc
 
 Video Demonstration
 
-• https://asu.zoom.us/rec/share/Tg9stkuWQCreXCriVe2GYIfFsaerq6gUKkEikQVzWHqE66t2n4htHmMW418PRhkS.-Tzf7DdP01-S0FAT?startTime=1717655479000
+https://asu.zoom.us/rec/share/Tg9stkuWQCreXCriVe2GYIfFsaerq6gUKkEikQVzWHqE66t2n4htHmMW418PRhkS.-Tzf7DdP01-S0FAT?startTime=1717655479000
 
 Passcode: UA#!qY9j
 
