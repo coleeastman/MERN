@@ -8,7 +8,7 @@ Passcode: UA#!qY9j
 
 Setup
 
-Create .env file
+• Create .env file
 
 PORT=4000
 MONGO_URI=mongodb+srv://<yourusername>:<yourpassword>@mern.dphdo8h.mongodb.net/?retryWrites=true&w=majority&appName=MERN
@@ -17,15 +17,15 @@ APP_PASSWORD=<yourapppasswordfromgoogleaccount>
 
 Open terminal
 
-cd MERN
+• cd MERN
 
-cd backend
+• cd backend
 
-npm run dev
+• npm run dev
 
-cd frontend
+• cd frontend
 
-npm start
+• npm start
 
 
 Overview
