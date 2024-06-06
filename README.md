@@ -43,7 +43,7 @@ Backend
 
 • Environment Variables: For storing sensitive data like email credentials and JWT secrets.
 
-• Security Measures
+Security Measures
 
 • Password Hashing: Using bcrypt to securely hash user passwords before storing them in the database.
 
