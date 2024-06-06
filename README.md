@@ -12,11 +12,11 @@ Setup
 
 PORT=4000
 
-MONGO_URI=mongodb+srv://<yourusername>:<yourpassword>@mern.dphdo8h.mongodb.net/?retryWrites=true&w=majority&appName=MERN
+MONGO_URI=mongodb+srv://yourusername:yourpassword@mern.dphdo8h.mongodb.net/?retryWrites=true&w=majority&appName=MERN
 
 SECRET=secretcode
 
-APP_PASSWORD=<yourapppasswordfromgoogleaccount>
+APP_PASSWORD=yourapppasswordfromgoogleaccount
 
 Open terminal
 
